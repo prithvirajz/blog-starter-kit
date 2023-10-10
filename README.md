@@ -1,1 +1,0 @@
-blog application by prithviraj singh
